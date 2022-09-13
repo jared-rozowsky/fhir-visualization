@@ -1,2 +1,2 @@
 # fhir-visualization
-extract data from fhir-document-reference and create visualizations
+Extract data from fhir-document-reference and create visualizations
