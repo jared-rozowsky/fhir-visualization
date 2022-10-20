@@ -44,3 +44,5 @@ The data extracted from the fhir-document-reference is saved as a dataframe. See
 Once the data is saved as a dataframe, the visualization is created using Panels - see [Visualize.ipynb](https://github.com/jared-rozowsky/fhir-visualization/blob/main/Visualization.ipynb) for how this is done. 
 
 *To save time, the dataframe is saved as a .csv file, so the Visualization.ipynb can be run without re-running the Implement.ipynb.
+
+[Here](https://github.com/jared-rozowsky/fhir-visualization/blob/main/POC%20viewer.png) is what the result will look like, without running any code. 
